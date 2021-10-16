@@ -3,7 +3,9 @@
  *	Lab Section: 23
  *	Assignment: Lab #5  Exercise #3
  *	Exercise Description: festive lights display with 6 LEDS CONNECTED TO PORT pb5...pb0
- *
+
+ * DEMO VIDEO LINK: https://drive.google.com/file/d/1PQq6cIxlieZbqmZSrZt_nPn8TksokhYq/view?usp=sharing
+ * 
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
  */
